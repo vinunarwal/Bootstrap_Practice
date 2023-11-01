@@ -1,0 +1,42 @@
+#carouselExampleIndicators{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table1{
+    margin: 50px 280px;
+    width: 60%;
+    border: 3px double black;
+}
+.card1{
+    margin: 100px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    margin-left: 100px;
+}
+#carouselExampleFade{
+    width: 50%;
+    margin:  70px 300px;
+}
+.page1{
+    margin-right: 50px;
+}
+.form1{
+    margin: 50px 100px;
+    width: 60%;
+}
+.colmn1{
+    margin-top: 50px;
+}
+.page3{
+    margin: 350px 50px 50px 0px;
+}
+.toolTip{
+    margin: 50px 50px;
+}
+.dropDown{
+    margin: 50px 50px;
+}
